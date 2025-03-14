@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Musraf l</h1>
+<h1 align="center">Hi 👋, I'm Musraf Khan</h1>
 <h3 align="center">Cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=project-cy033&label=Profile%20views&color=0e75b6&style=flat" alt="project-cy033" /> </p>
